@@ -1,2 +1,2 @@
 # exercise1
-dsfknsdfkb
+biodata sederhana saya menggunakan html dan css
